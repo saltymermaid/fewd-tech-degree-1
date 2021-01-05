@@ -56,7 +56,6 @@ a:hover {
 }
 
 header {
-  text-align: bottom;
   background: url('images/grenada.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
@@ -102,6 +101,10 @@ header .profile-image:hover {
   border-color: #1a8181;
 }
 .pic {
+  width: 350px;
+  height: 350px;
+}
+.craftpic {
   width: 425px;
   height: 425px;
 }
